@@ -2,7 +2,7 @@
 Ancondas software 
 ## The written analysis has the following:
 ## Overview of the school district analysis:
-- The purpose of this analysis is to help Maria find out the correct Math, Reading, and Overall scores for the new Thomas High School district for the nineth grade. Compared to PyCitySchools and PyCitySchoolsChallenge. Also they wanted us to show were in changes between PyCitySchools and PyCitySchoolsChallenge.
+- The purpose of this analysis is to help Maria find out the correct Math, Reading, and Overall scores for the new Thomas High School district for the nineth grade. Compared to PyCitySchools and PyCitySchoolsChallenge. Also they wanted us to show if there were any changes between PyCitySchools and PyCitySchoolsChallenge.
 ## Results:
 - There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data. The seven metrics we used from PyCitySchools to PyCitySchoolsChallenge were affected after we changed the old scores to new scores. 
 ## Summary:
