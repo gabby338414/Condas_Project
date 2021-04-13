@@ -19,7 +19,7 @@ The purpose of this analysis is to help Maria find out the correct Math, Reading
 * Scores by school spending? School spending for reading is higher than math.
 ![School_spending](https://github.com/gabby338414/School_District_Analysis/blob/edaf4cad50603467bac979724ca3733e54d5c812/School_District_resources/School_spending.PNG)
 * Scores by school size? Small and medium school sizes have higher math and reading verses large schools.
-
+![School_size](https://github.com/gabby338414/School_District_Analysis/blob/a15eb5ae8f122add328ae92d024fbaee2960afe5/School_District_resources/School_size.PNG)
 * Scores by school type? Charter schools have high reading and math scores verses district schools.
 
 ## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs. 
