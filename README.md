@@ -1,6 +1,7 @@
 # School_District_Analysis
 Ancondas software 
-## Overview of the school district analysis: Explain the purpose of this analysis. The purpose of this analysis is to help Maria find out the correct Math, Reading, and Overall scores for the new Thomas High School district for the nineth grade. Compared to PyCitySchools and PyCitySchoolsChallenge. Also, they wanted us to show if there were any changes between PyCitySchools and PyCitySchoolsChallenge.
+## Overview of the school district analysis: Explain the purpose of this analysis. 
+The purpose of this analysis is to help Maria find out the correct Math, Reading, and Overall scores for the new Thomas High School district for the nineth grade. Compared to PyCitySchools and PyCitySchoolsChallenge. Also, they wanted us to show if there were any changes between PyCitySchools and PyCitySchoolsChallenge.
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
@@ -21,4 +22,5 @@ Ancondas software
 
 *Scores by school type? Charter schools have high reading and math scores verses district schools.
 
-## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs. The new scores for math and reading increased after replacing the nineth grade scores with NaNs. Thomas high school went to being in the mid to low 60’s to high 90’s. Reading scores for all grades were higher than the math grades. The school district focused more on reading material verses math material for their students.
+## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs. The new scores for math and reading increased after replacing the nineth grade scores with NaNs. 
+Thomas high school went to being in the mid to low 60’s to high 90’s. Reading scores for all grades were higher than the math grades. The school district focused more on reading material verses math material for their students.
