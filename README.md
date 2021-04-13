@@ -21,6 +21,6 @@ The purpose of this analysis is to help Maria find out the correct Math, Reading
 * Scores by school size? Small and medium school sizes have higher math and reading verses large schools.
 ![School_size](https://github.com/gabby338414/School_District_Analysis/blob/a15eb5ae8f122add328ae92d024fbaee2960afe5/School_District_resources/School_size.PNG)
 * Scores by school type? Charter schools have high reading and math scores verses district schools.
-
+![School_type](https://github.com/gabby338414/School_District_Analysis/blob/0ea05fba3b0e84de9c323b3f0dbbb0615420bef7/School_District_resources/School_type.PNG)
 ## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs. 
-The new scores for math and reading increased after replacing the nineth grade scores with NaNs. Thomas high school went to being in the mid to low 60’s to high 90’s. Reading scores for all grades were higher than the math grades. The school district focused more on reading material verses math material for their students.
+The new scores for math and reading increased after replacing the nineth grade scores with NaNs. Thomas high school went to being in the mid to low 60’s to high 90’s. Reading scores for all grades were higher than the math grades. The school district focused more on reading material verses math material for their students. Between PyCitySchools scores were higher by a little rather the PyCitySchoolsChallenge were a littler lower for the spending, size, and type. There wasn't a major impact between the to.
