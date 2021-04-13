@@ -7,9 +7,8 @@ The purpose of this analysis is to help Maria find out the correct Math, Reading
 
 * How is the district summary affected? The overall passing for the district summary was low. 
 ![District_Summary](https://github.com/gabby338414/School_District_Analysis/blob/2fe4ca8592ed286feb0580bcb80331c2bdcedea1/School_District_resources/District_Summary.PNG)
-
 * How is the school summary affected? Thomas high school grades are low for reading and math.
-
+![School_Summary](https://github.com/gabby338414/School_District_Analysis/blob/094ce67430eb0e0e7e154dc7892d38f00afe1ef1/School_District_resources/School_Summary.PNG)
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? Replacing the reading and math scores for Thomas High school brough there scores for reading and math over 90%.
 
 ## How does replacing the ninth-grade scores affect the following:
