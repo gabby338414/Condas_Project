@@ -14,7 +14,7 @@ The purpose of this analysis is to help Maria find out the correct Math, Reading
 ## How does replacing the ninth-grade scores affect the following:
 
 * Math and reading scores by grade? The grades for the reading scores were higher than the math scores.
-
+![Math_scores](https://github.com/gabby338414/School_District_Analysis/blob/073ad58651af2af9fb088ca916e631c240e1a652/School_District_resources/Math_scores.PNG)
 * Scores by school spending? School spending for reading is higher than math.
 
 * Scores by school size? Small and medium school sizes have higher math and reading verses large schools.
