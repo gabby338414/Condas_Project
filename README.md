@@ -17,7 +17,7 @@ The purpose of this analysis is to help Maria find out the correct Math, Reading
 ![Math_scores](https://github.com/gabby338414/School_District_Analysis/blob/073ad58651af2af9fb088ca916e631c240e1a652/School_District_resources/Math_scores.PNG)
 ![Reading_scores](https://github.com/gabby338414/School_District_Analysis/blob/8b5567eab3b134e28accfb48ff0ca188136afc84/School_District_resources/Reading_scores.PNG)
 * Scores by school spending? School spending for reading is higher than math.
-
+![School_spending](https://github.com/gabby338414/School_District_Analysis/blob/edaf4cad50603467bac979724ca3733e54d5c812/School_District_resources/School_spending.PNG)
 * Scores by school size? Small and medium school sizes have higher math and reading verses large schools.
 
 * Scores by school type? Charter schools have high reading and math scores verses district schools.
