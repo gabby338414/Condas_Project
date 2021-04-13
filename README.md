@@ -6,7 +6,7 @@ The purpose of this analysis is to help Maria find out the correct Math, Reading
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 * How is the district summary affected? The overall passing for the district summary was low. 
-
+![District_Summary](https://github.com/gabby338414/School_District_Analysis/blob/2fe4ca8592ed286feb0580bcb80331c2bdcedea1/School_District_resources/District_Summary.PNG)
 
 * How is the school summary affected? Thomas high school grades are low for reading and math.
 
